@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 90px;
+    background-color: rgb(10, 4, 4)
+    }
+.parag{
+    font-size: x-large;
+}
+
+.safa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  
+.titre{
+       font-size: 70px;
+}
+
+.parag{
+font-size: x-large;
+margin: 10px;
+gap: 10px;
+}
+.rig{
+    color: white;
+    padding: 20px;
+    display: flex;
+    font-size: 20px;
+    margin: 10px;
+    gap: 90px;
+    right: 0;
+    position: absolute; 
+    top: 0; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.col{
+    color: rgb(17, 38, 198);
+    font-size: xx-large;
+    font-weight: 100px;
+}
+
+
+.lef{
+      color: white;
+      padding:0px;
+      display: flex;
+      margin: 0px;
+      padding: 10px;
+      gap: 20px;
+      font-weight: 900px;
+      font-size: 50px;
+}
+.cad{
+    padding: 20px; 
+    border: 2px solid #333; 
+    border-radius: 10px; 
+    background-color: #f9f9f9; 
+    margin: 10px;
+    gap: 10px;
+    
+    
+}
+
+.sar{
+    padding: 20px; 
+    border: 2px solid #333; 
+    border-radius: 10px; 
+    background-color: #f9f9f9; 
+    margin: 10px;
+    gap: 10px;
+}
+
+
+
+label {
+    display: block; 
+    margin-bottom: 5px; 
+}
+
+input {
+    padding: 8px; 
+    border: 1px solid #ccc; 
+}
+
+ .khi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+ }  
+.not{
+    background-color: #ccc;
+}
+.im{
+    -webkit-box-shadow: 16px 16px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 16px 16px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 16px 16px 5px 0px rgba(0,0,0,0.75);
+}
+.env{
+    font-size: large;
+padding: 10px;
+font-weight: 300px;
+}
